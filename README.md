@@ -93,3 +93,4 @@ A continuación, se describen las propiedades CSS utilizadas en el archivo "styl
 Si deseas personalizar los estilos de la página web, puedes modificar estos valores de propiedad CSS según tus preferencias. Asegúrate de guardar los cambios en "style.css" y recargar la página para ver los efectos.
 
 ¡Diviértete creando tu página web con estilo!
+Ramiro Devoto Marcos boccia

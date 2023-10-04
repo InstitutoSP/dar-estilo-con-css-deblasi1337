@@ -1,6 +1,6 @@
 header{
     background-color: #183e49;
-color:rgb(255, 0, 0);
+color:rgb(156, 5, 5);
 padding:20px;
 }
 
@@ -32,4 +32,8 @@ li{
 }
 footer{
     background-color: aqua;
+}
+main h2 {text-decoration: underline;}
+.foto{
+    border-style: dotted;
 }
